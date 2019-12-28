@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{23F96274-2E46-4C81-B4A0-8162F166C32F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Demo.SegmentedViewDemo.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EEC3FABB-5768-40E9-ACEF-892AC70B9F60" />
+  <MonoDevelop.Ide.ItemProperties.SupportSegmentedViewXF.Droid FirstBuild="True" PreferredExecutionTarget="Android.my_device" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SegmentedViewDemo/MainPage.xaml">
+    <Files>
+      <File FileName="SegmentedViewDemo/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="SegmentedViewDemo/MainPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SupportSegmentedViewXF" expanded="True">
+            <Node name="Demo" expanded="True">
+              <Node name="SegmentedViewDemo" expanded="True">
+                <Node name="Dependencies" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Demo.SegmentedViewDemo FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SupportSegmentedViewXF FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SupportSegmentedViewXF.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Demo.SegmentedViewDemo.Android FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
