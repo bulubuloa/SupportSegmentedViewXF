@@ -1,4 +1,4 @@
 # SupportSegmentedViewXF
 Custom UI control for Xamain.Forms iOS/Android which is showing data as a segments and a value inside them.
 
-<img src="https://github.com/bulubuloa/SupportWidgetXF/blob/master/ScreenShots/demo_autocomplete.gif" width="324" height="639" />
+<img src="https://github.com/bulubuloa/SupportSegmentedViewXF/blob/master/Screenshots/ezgif-7-e42f4da0827e.gif" width="324" height="639" />
